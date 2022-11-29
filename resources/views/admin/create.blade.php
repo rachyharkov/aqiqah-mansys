@@ -1,0 +1,12 @@
+@extends('layouts.template')
+
+@section('content')
+<div class="row">
+	<div class="col-lg-12">
+		<!-- small box -->
+		<h3></h3>
+	</div>
+	<!-- ./col -->
+</div>
+@include('test-card')
+@endsection
